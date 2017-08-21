@@ -1,0 +1,48 @@
+body{
+	background: white;
+	color: black;
+	text-align:center;
+	font-family:Calibri;
+	font-size: 24px;
+}
+
+h1{
+	font-family:SUNN;
+	font-size: 70px;
+	border-style: solid;
+	border-width: 4px;
+	border-color: black;
+	padding: 1%;
+	width: 40%;
+	height: 10%;
+	margin: auto;
+}
+
+p{
+	font-size:18px;
+}
+
+footer{
+	position:fixed;
+	bottom:0;
+	font-size:14px;
+	padding:1%;
+}
+
+.topnav a{
+	float:left;
+	display:block;
+	color:black;
+	text-align:center;
+	padding:14px;
+	text-decoration:none;
+	font-size:20px;
+	background-color: #FADBD8  ;
+
+}
+
+.topnav a:hover {
+	background-color: black;
+	color:#FADBD8  ;
+
+}
